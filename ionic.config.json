@@ -1,0 +1,8 @@
+{
+  "name": "ionic-image-crop",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
